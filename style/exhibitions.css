@@ -1,0 +1,61 @@
+.main {
+	margin-top: 3px;	
+	font-family: Tahoma, Verdana, sans-serif; color:#333;
+	background: #aaa;
+	/*
+	background-image: url("/images/fliptop.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	*/
+	width: 800px;
+	padding-bottom:20px;
+}
+
+.info{
+	padding-top: 20px;
+	padding-left: 200px;
+	width: 400px;
+}
+
+h2 {
+	margin:0;
+	padding-top:20px;
+	padding-bottom: 5px;
+}
+
+h3{
+	margin: 0;
+	padding-top:50px;
+}
+table{
+	width: 600px;
+}
+
+th{
+	text-align:left;
+	width: 7em;
+	font-size: 13px;
+}
+td{
+	text-align: left;
+	font-size: 13px;	
+}
+
+ul{
+	margin:0;
+	padding-left: 0px;
+	list-style-type: none;
+	text-decoration: none;
+}
+li{
+	padding-top: 1px;
+}
+a{
+	text-decoration: none;
+	font-size: 12px;
+}
+
+a:visited {color: #22f;}
+a:hover {color:#59f;}
+a:link:hover {color:#59f;}
+a:link {color:#22f;}

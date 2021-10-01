@@ -1,0 +1,123 @@
+
+.main {
+	margin-top: 3px;	
+	background: #aaa;
+	width: 800px;
+	padding-bottom:20px;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.drawing{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	width: 700px;
+}
+
+
+.single{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-bottom: 30px;
+	width: 700px;	
+}
+
+.six{
+	width: 600px;
+	padding-bottom: 80px;
+}
+
+.portraite{
+	width: 480px;
+}
+
+.space{
+	height: 50px;
+}
+
+.name{
+	margin:0;
+	padding:0;
+	padding-top: 10px;
+	font-size: 16px;
+}
+.al{
+	text-align: left;
+}
+.about{
+	font-weight: bold;
+	padding-top: 50px;
+	text-align: left;
+}
+.about p{
+	margin:0;
+	padding:0;
+	padding-top: 10px;
+}
+.title{
+	color: #eee;
+	font-size: 16px;
+}
+
+.description{
+	padding-top: 10px;
+	font-size: 14px;
+}
+
+.dimension{
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+.two{
+	width: 730px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.smallinfo{
+	display: inline-block;
+	padding-left:10px;
+	padding-right: 10px;
+}
+.three{
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 20px;
+}
+.t4{
+	width:100%;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.smenu 
+{
+	color: #eee;
+	background-color: #444;
+}
+
+.smenu a:visited {color: #eee;}
+.smenu a:hover {color:#999;}
+.smenu a:link:hover {color:#999;}
+.smenu a:link {color:#eee;}
+
+.category{
+	color: #ccc;
+}
+
+.page{
+	color: #ddd; 
+}
+

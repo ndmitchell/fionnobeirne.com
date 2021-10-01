@@ -1,0 +1,167 @@
+body {
+	font-family: Tahoma, Verdana, sans-serif; color:#333;
+	background: #ccc;
+}
+
+.main{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #000;
+	padding-bottom: 20px;
+}
+
+/* CSS Document */
+
+.intro{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.about{
+	margin-top: 10px;
+}
+
+.title{
+/*	padding-top: 10px; */
+	color: #bbb;
+	font-size: 16px;
+	font-weight: bold;
+}
+.info{
+	font-size: 14px;
+}
+.col{
+	padding-top: 10px;
+	width: 100%;
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.description{
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px;
+	color: #eee;
+}
+
+.one{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.single{
+	width: 700px;
+}
+.portrate{
+	width: 480px;
+}
+
+td{
+	vertical-align: bottom;
+}
+.t3{
+	padding-top: 20px;
+	width:100%;
+	text-align: center;
+}
+.r1{
+	padding-top: 60px;
+}
+.r2{
+	padding-top: 60px;
+	padding-bottom: 50px;	
+}
+.man{
+	padding-bottom: 50px;
+}
+
+.landscape{
+	padding-bottom: 200px;
+}
+.two{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 20px;	
+}
+.three{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 20px;
+	vertical-align: middle;
+}
+
+.three img{
+	margin: 0;
+	padding: 0;
+}
+.category{
+	padding-left: 10px;
+	color: #ccc;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.smenu 
+{
+	margin-top: 5px;
+	padding-top: 10px;
+	clear: both;
+	text-align: left;
+	color: #eee;
+	background-color: #444;
+
+	position: relative;
+	height: 20px;
+	line-height: 10px;
+}
+
+.page{
+	margin: 10px;
+	color: #ddd; 
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.inline{
+	position: relative;
+	display: inline-block;
+	width: 220px;
+}
+
+.small{
+	padding-right: 10px;
+}
+.smenu h1
+{
+	margin:0;
+	padding:5px 10px 0 10px;
+	font-size:12px;
+}
+
+.smenu a {
+	padding: 0 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.smenu a:visited {color: #eee;}
+.smenu a:hover {color:#999;}
+.smenu a:link:hover {color:#999;}
+.smenu a:link {color:#eee;}
+
+.contact{
+	padding-top: 0px;
+}
